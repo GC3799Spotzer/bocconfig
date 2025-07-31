@@ -1,0 +1,20 @@
+{
+  "$id": "c_featuredProductsImage",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Featured Products Image",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "image",
+      "maxLength": 500,
+      "type": {
+        "imageType": {
+          "noAllowedAspectRatios": true,
+          "unconstrainedAspectRatioAllowed": true
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

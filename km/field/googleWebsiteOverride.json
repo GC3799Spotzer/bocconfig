@@ -1,0 +1,15 @@
+{
+  "$id": "c_googleWebsiteOverride",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Stores the base URL along with the Google Business Profile UTM parameter.",
+  "displayName": "Google Website Override",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 2000
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "c_salesChannel",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Store type",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "Agent",
+          "textValue": "AGENT"
+        },
+        {
+          "displayName": "Gas \u0026 Gear",
+          "textValue": "GAS_\u0026_GEAR"
+        }
+      ]
+    }
+  },
+  "typeId": "option"
+}

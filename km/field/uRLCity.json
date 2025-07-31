@@ -1,0 +1,15 @@
+{
+  "$id": "c_uRLCity",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Holds the city information without spaces and special characters to be used in URLs.",
+  "displayName": "URL City",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

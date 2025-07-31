@@ -1,0 +1,135 @@
+{
+  "$id": "c_pagesCategories",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Stores the Pages Categories (Services) data for BOC",
+  "displayName": "Products and services",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "maxLength": 2000,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Welding gases",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "en_GB",
+                  "value": "Welding gases"
+                }
+              ],
+              "textValue": "WELDING_GASES"
+            },
+            {
+              "displayName": "Welding Equipment \u0026 Accessories",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "en_GB",
+                  "value": "Welding Equipment \u0026 Accessories"
+                }
+              ],
+              "textValue": "ACCESSORIES"
+            },
+            {
+              "displayName": "Industrial gases",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "en_GB",
+                  "value": "Industrial gases"
+                }
+              ],
+              "textValue": "INDUSTRIAL_GASES"
+            },
+            {
+              "displayName": "Refrigeration gases",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "en_GB",
+                  "value": "Refrigeration gases"
+                }
+              ],
+              "textValue": "REFRIGERATION_GASES"
+            },
+            {
+              "displayName": "Balloon gas",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "en_GB",
+                  "value": "Balloon gas"
+                }
+              ],
+              "textValue": "BALLOON_GAS"
+            },
+            {
+              "displayName": "Drinks gases",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "en_GB",
+                  "value": "Drinks gases"
+                }
+              ],
+              "textValue": "SURESERVE_GASES"
+            },
+            {
+              "displayName": "Propane",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "en_GB",
+                  "value": "Propane"
+                }
+              ],
+              "textValue": "PROPANE"
+            },
+            {
+              "displayName": "CP7 \u0026 CP47 inspections",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "en_GB",
+                  "value": "CP7 \u0026 CP47 inspections"
+                }
+              ],
+              "textValue": "CP7_\u0026_CP47_INSPECTIONS"
+            },
+            {
+              "displayName": "Genie cylinders",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "en_GB",
+                  "value": "Genie cylinders"
+                }
+              ],
+              "textValue": "GENIE"
+            },
+            {
+              "displayName": "Medical gases",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "en_GB",
+                  "value": "Medical gases"
+                }
+              ],
+              "textValue": "MEDICAL_GASES"
+            },
+            {
+              "displayName": "Pickup Point",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "en_GB",
+                  "value": "Pickup Point"
+                }
+              ],
+              "textValue": "PICKUP_POINT"
+            },
+            {
+              "displayName": "Delivery option available",
+              "textValue": "DELIVERY_OPTION_AVAILABLE"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}
